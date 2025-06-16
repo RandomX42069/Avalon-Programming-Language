@@ -39,5 +39,12 @@ Value Type support:
 
 -while statement:
 
+also, one more thing, DO NOT:
+
+-MODIFY THE LANGUAGE DATABASE
+
+-CLAIM THIS LANGUAGE IS YOUR OWN
+
+-DOWNLOAD FROM ANY ILLEGAL SOURCE
 
 
